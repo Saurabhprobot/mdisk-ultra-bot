@@ -40,4 +40,4 @@ Start your Bot in Telegram & Enjoy
 
 ##### Credit
 
-- Me [Shashwat-Shukla](https://github.com/Shashwat-Shukla) For This Repo
+- Me [Shashwat-Shukla](https://github.com/Saurabhprobot/mdisk-ultra-bot) For This Repo
